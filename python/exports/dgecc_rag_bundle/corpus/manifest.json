@@ -1,0 +1,26 @@
+{
+  "schemaVersion": "1.0.0",
+  "exportedAt": "2026-11-23T12:42:46.222748+00:00",
+  "sourceDatabase": "dgecc.db",
+  "includeUnpublished": false,
+  "counts": {
+    "documents": 5,
+    "chunks": 601,
+    "embeddedChunks": 0,
+    "vectorDimension": 0
+  },
+  "files": {
+    "config/rag_config.json": {
+      "sha256": "6b2288269ed18747f8bf1a8d58d99d7eaa40fe64ae069ca4509d987fef834442"
+    },
+    "corpus/documents_metadata.json": {
+      "sha256": "38cbcc8c3c25ca367158cdffe4b7cb2b82da4008274f831639250fa8f69ea08e"
+    },
+    "corpus/chunks_vectors.jsonl": {
+      "sha256": "2ab9e89e65ed5e1ff16f9968d2c6cbf37557ea1c6197b5053bef946d9125eed4"
+    },
+    "skeleton/dgecc_rag_skeleton.py": {
+      "sha256": "3f058f7a3c92d40baee5dc7509e87cbf86aa37c757c718509cd6ccd2cb1ebe9d"
+    }
+  }
+}

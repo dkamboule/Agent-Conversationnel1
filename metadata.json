@@ -1,0 +1,6 @@
+{
+  "name": "DGECC Orientation — Agent Conversationnel RAG Hybride",
+  "description": "Portail d'orientation des usagers et console d'administration documentaire de la Direction Générale des Examens, Concours et de la Certification (DGECC), propulsé par une architecture RAG hybride (BM25 + embeddings vectoriels + RRF + garde-fous).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

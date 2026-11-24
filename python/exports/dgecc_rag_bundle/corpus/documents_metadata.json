@@ -1,0 +1,177 @@
+[
+  {
+    "id": "7cd7d851-c516-4eff-ac2e-d1f29d7c3b70",
+    "title": "Décret n°2025-1558/PF/PRIM/MFPTPS/MEF portant statut particulier du métier « Éducation, formation et promotion de l'emploi »",
+    "docType": "Décret réglementaire",
+    "category": "Direction Générale & Services Rattachés",
+    "serviceName": "Direction Générale — Service de Gestion des Ressources Humaines (SGRH)",
+    "referenceCode": "DECRET-2025-1558-PF-PRIM-MFPTPS-MEF",
+    "publishedDate": "2025-12-05",
+    "validUntil": null,
+    "currentVersion": 1,
+    "status": "PUBLIE",
+    "fileName": "DECRET_2025-1558_PF_PRIM_MFPTPS_MEF_portant_statut_particulier_du_metier_Education__formation_et_promotion_de_l_emploi_cee9d4a3.pdf",
+    "fileFormat": "PDF",
+    "chunkCount": 371,
+    "embeddedCount": 0,
+    "versionConfig": {
+      "chunkSize": 850,
+      "chunkOverlap": 160,
+      "normalizedTextLength": 205919,
+      "createdAt": "2026-11-23T12:36:00.365Z"
+    },
+    "indexationHistory": [
+      {
+        "version_number": 1,
+        "chunk_count": 371,
+        "embedding_model": "gemini-embedding-2",
+        "bm25_terms_count": 28040,
+        "duration_ms": 0,
+        "status": "SUCCES",
+        "created_at": "2026-11-23T12:36:00.365Z"
+      }
+    ],
+    "createdAt": "2026-11-23T12:36:00.365Z",
+    "updatedAt": "2026-11-23T12:36:00.365Z"
+  },
+  {
+    "id": "0b6ff480-3c95-4318-99b1-2ca41d81551c",
+    "title": "Arrêté n°2025-2877/MFPTPS/SG/AGRE portant ouverture d'examens professionnels du CAP-CEG, du CAET, du CAPES et du CAPET — session de 2026",
+    "docType": "Arrêté ministériel",
+    "category": "Examens & Concours Post-primaire et Secondaire (DECEPS)",
+    "serviceName": "DECEPS — Service des examens professionnels",
+    "referenceCode": "MFPTPS-2025-2877-ARR-CAPES-CAPET-CAPCEG-CAET-2026",
+    "publishedDate": "2025-11-26",
+    "validUntil": "2026-12-31",
+    "currentVersion": 1,
+    "status": "PUBLIE",
+    "fileName": "Arret__portant_ouverture_examens_professionnels_CAPES-CAPET__CAPCEG-CAET_2026_e18c42dd.pdf",
+    "fileFormat": "PDF",
+    "chunkCount": 28,
+    "embeddedCount": 0,
+    "versionConfig": {
+      "chunkSize": 850,
+      "chunkOverlap": 160,
+      "normalizedTextLength": 15267,
+      "createdAt": "2026-11-23T12:42:13.521Z"
+    },
+    "indexationHistory": [
+      {
+        "version_number": 1,
+        "chunk_count": 28,
+        "embedding_model": "gemini-embedding-2",
+        "bm25_terms_count": 2152,
+        "duration_ms": 0,
+        "status": "SUCCES",
+        "created_at": "2026-11-23T12:42:13.521Z"
+      }
+    ],
+    "createdAt": "2026-11-23T12:42:13.521Z",
+    "updatedAt": "2026-11-23T12:42:13.521Z"
+  },
+  {
+    "id": "39ec5ab0-d7ac-4b5d-8355-c135960e6740",
+    "title": "Arrêté n°2021-MENAPLN/SG/DGEC portant création, attributions et composition des membres des jurys d'organisation des examens professionnels du CAPES et du CAPET, du CAP-CEG et du CAET",
+    "docType": "Arrêté ministériel",
+    "category": "Examens & Concours Post-primaire et Secondaire (DECEPS)",
+    "serviceName": "DECEPS — Service des examens professionnels",
+    "referenceCode": "MENAPLN-DGEC-ARR-JURYS-CAPES-CAPET-CAPCEG-CAET",
+    "publishedDate": "2014-11-30",
+    "validUntil": null,
+    "currentVersion": 1,
+    "status": "PUBLIE",
+    "fileName": "ARRETE_PORTANT_CREATION_398fe05c.pdf",
+    "fileFormat": "PDF",
+    "chunkCount": 12,
+    "embeddedCount": 0,
+    "versionConfig": {
+      "chunkSize": 850,
+      "chunkOverlap": 160,
+      "normalizedTextLength": 6516,
+      "createdAt": "2026-11-23T12:42:13.521Z"
+    },
+    "indexationHistory": [
+      {
+        "version_number": 1,
+        "chunk_count": 12,
+        "embedding_model": "gemini-embedding-2",
+        "bm25_terms_count": 859,
+        "duration_ms": 0,
+        "status": "SUCCES",
+        "created_at": "2026-11-23T12:42:13.521Z"
+      }
+    ],
+    "createdAt": "2026-11-23T12:42:13.521Z",
+    "updatedAt": "2026-11-23T12:42:13.521Z"
+  },
+  {
+    "id": "79201702-1543-4e42-8313-fa030d3cc53b",
+    "title": "Manuel de procédures de l'organisation des examens et concours scolaires (BEPC, CAP, BEP, Concours d'entrée en 2nde et en 1ère année BEP)",
+    "docType": "Manuel de procédures",
+    "category": "Examens & Concours Post-primaire et Secondaire (DECEPS)",
+    "serviceName": "DECEPS — Secrétariat",
+    "referenceCode": "OCECOS-2014-MAN-BEPC-BEP-CAP",
+    "publishedDate": "2014-04-08",
+    "validUntil": null,
+    "currentVersion": 1,
+    "status": "PUBLIE",
+    "fileName": "Manuel_de_procedure__bepc_bep_cap__2014__1__f4786aa0.pdf",
+    "fileFormat": "PDF",
+    "chunkCount": 176,
+    "embeddedCount": 0,
+    "versionConfig": {
+      "chunkSize": 850,
+      "chunkOverlap": 160,
+      "normalizedTextLength": 96953,
+      "createdAt": "2026-11-23T12:36:00.365Z"
+    },
+    "indexationHistory": [
+      {
+        "version_number": 1,
+        "chunk_count": 176,
+        "embedding_model": "gemini-embedding-2",
+        "bm25_terms_count": 13677,
+        "duration_ms": 0,
+        "status": "SUCCES",
+        "created_at": "2026-11-23T12:36:00.365Z"
+      }
+    ],
+    "createdAt": "2026-11-23T12:36:00.365Z",
+    "updatedAt": "2026-11-23T12:36:00.365Z"
+  },
+  {
+    "id": "effcaf42-625c-4821-8d80-46a0a9058834",
+    "title": "Arrêté n°2013-334/MESS/SG/OCECOS/DECSP portant organisation des examens professionnels du CAP-CEG et du CAET",
+    "docType": "Arrêté ministériel",
+    "category": "Examens & Concours Post-primaire et Secondaire (DECEPS)",
+    "serviceName": "DECEPS — Service des examens professionnels",
+    "referenceCode": "MESS-2013-334-ARR-CAPCEG-CAET",
+    "publishedDate": "2013-08-28",
+    "validUntil": null,
+    "currentVersion": 1,
+    "status": "PUBLIE",
+    "fileName": "ARRETE_334_4e339437.pdf",
+    "fileFormat": "PDF",
+    "chunkCount": 14,
+    "embeddedCount": 0,
+    "versionConfig": {
+      "chunkSize": 850,
+      "chunkOverlap": 160,
+      "normalizedTextLength": 8281,
+      "createdAt": "2026-11-23T12:42:13.521Z"
+    },
+    "indexationHistory": [
+      {
+        "version_number": 1,
+        "chunk_count": 14,
+        "embedding_model": "gemini-embedding-2",
+        "bm25_terms_count": 1115,
+        "duration_ms": 0,
+        "status": "SUCCES",
+        "created_at": "2026-11-23T12:42:13.521Z"
+      }
+    ],
+    "createdAt": "2026-11-23T12:42:13.521Z",
+    "updatedAt": "2026-11-23T12:42:13.521Z"
+  }
+]
